@@ -15,6 +15,8 @@ public class AiPlayer extends Player {
 
         this.humanPlayer = humanPlayer;
 
+        velocity = new Random().nextInt(8)+1;
+
         setRandomLocation();
 
         actions.put(0, () -> {

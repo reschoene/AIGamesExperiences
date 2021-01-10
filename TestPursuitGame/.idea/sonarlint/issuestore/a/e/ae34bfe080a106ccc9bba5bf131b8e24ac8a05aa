@@ -1,0 +1,15 @@
+
+p
+java:S1450"URemove the "txtFps" field and declare it as a local variable in the relevant methods.(…‚‰Äúÿÿÿÿ
+
+java:S1450"_Remove the "lblAIPlayerCount" field and declare it as a local variable in the relevant methods.(û²¢Èÿÿÿÿÿ8ù•öğî.
+V	java:S110
+"<This class has 6 parents which is greater than 5 authorized.(Ëë¢¡üÿÿÿÿ
+?
+java:S1659"$Declare "txtFps" on a separate line.(…‚‰Äúÿÿÿÿ
+?
+java:S1659"$Declare "lblFps" on a separate line.(û²¢Èÿÿÿÿÿ
+
+java:S1450"_Remove the "txtAiPlayerCount" field and declare it as a local variable in the relevant methods.(…‚‰Äúÿÿÿÿ8ù•öğî.
+p
+java:S1450"URemove the "lblFps" field and declare it as a local variable in the relevant methods.(û²¢Èÿÿÿÿÿ

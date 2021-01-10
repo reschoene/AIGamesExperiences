@@ -1,0 +1,20 @@
+
+I
+java:S1602{",Remove useless curly braces around statement(Ü×ó8ÏÌøòî.
+J
+java:S1611{"4Remove the parentheses around the "player" parameter(Ü×ó
+J
+java:S1611N"4Remove the parentheses around the "player" parameter(Ü×ó
+N
+java:S1948",Make "gameConfig" transient or serializable.(¬øÅ¦úÿÿÿÿ8éş‚ñî.
+j	java:S116"URename this field "BASE_TITLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü€¤İ
+K
+java:S1948")Make "players" transient or serializable.(¿Ÿáºùÿÿÿÿ8éş‚ñî.
+7
+java:S1170"!Make this final field static too.(Ü€¤İ
+˜
+java:S1186”"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷—
+O
+java:S1948"-Make "humanPlayer" transient or serializable.(ö’¸Ñøÿÿÿÿ8§âãñî.
+c
+java:S2142H"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8»ıòî.

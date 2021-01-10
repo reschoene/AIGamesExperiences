@@ -1,0 +1,31 @@
+
+V	java:S110"<This class has 6 parents which is greater than 5 authorized.(Ëë¢¡üÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+q
+java:S1450"[Remove the "btnStartGame" field and declare it as a local variable in the relevant methods.(“¢¸–
+~
+java:S1450
+"cRemove the "chkIsAiTrainingPhase" field and declare it as a local variable in the relevant methods.(î´ù‚ÿÿÿÿÿ
+}
+java:S1450
+"bRemove the "chkUsingHumanPlayer" field and declare it as a local variable in the relevant methods.(î´ù‚ÿÿÿÿÿ
+k
+java:S1450	"URemove the "lblFps" field and declare it as a local variable in the relevant methods.(©®ìè
+u
+java:S1450	"_Remove the "lblTrainingPhase" field and declare it as a local variable in the relevant methods.(©®ìè
+x
+java:S1450	"bRemove the "lblUsingHumanPlayer" field and declare it as a local variable in the relevant methods.(©®ìè
+p
+java:S1450"URemove the "txtFps" field and declare it as a local variable in the relevant methods.(…‚‰Äúÿÿÿÿ
+D
+java:S1659	".Declare "lblTrainingPhase" on a separate line.(©®ìè
+D
+java:S1659	".Declare "lblAIPlayerCount" on a separate line.(©®ìè
+:
+java:S1659	"$Declare "lblFps" on a separate line.(©®ìè
+M
+java:S1659
+"2Declare "chkIsAiTrainingPhase" on a separate line.(î´ù‚ÿÿÿÿÿ
+?
+java:S1659"$Declare "txtFps" on a separate line.(…‚‰Äúÿÿÿÿ

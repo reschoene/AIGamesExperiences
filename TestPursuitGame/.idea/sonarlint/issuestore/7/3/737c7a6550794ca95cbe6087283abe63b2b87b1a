@@ -1,0 +1,26 @@
+
+G
+java:S1602$",Remove useless curly braces around statement(Øž²¿øÿÿÿÿ
+H
+java:S2160
+"+Override the "equals" method in this class.(ÿË¨‰8Çìññî.
+B
+java:S1602 ",Remove useless curly braces around statement(ê¢ÛÔ
+B
+java:S1612 ",Replace this lambda with a method reference.(ê¢ÛÔ
+G
+java:S1612$",Replace this lambda with a method reference.(Øž²¿øÿÿÿÿ
+Q
+java:S1128"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃýÿÿÿÿ8´“¢ñî.
+M
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äð18¤¼¡ñî.
+G
+java:S1612",Replace this lambda with a method reference.(¿ÛÓðþÿÿÿÿ
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ8´“¢ñî.
+G
+java:S1602",Remove useless curly braces around statement(¿ÛÓðþÿÿÿÿ
+B
+java:S1612",Replace this lambda with a method reference.(ÎœæŠ
+B
+java:S1602",Remove useless curly braces around statement(ÎœæŠ

@@ -1,0 +1,21 @@
+
+G
+java:S1612",Replace this lambda with a method reference.(ÖÚ›ûÿÿÿÿ
+G
+java:S1612",Replace this lambda with a method reference.(„»¨ıÿÿÿÿ
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ğ‚¥ñî.
+Q
+java:S1128"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ8ğ‚¥ñî.
+B
+java:S1602",Remove useless curly braces around statement(Ñ´èê
+G
+java:S1602",Remove useless curly braces around statement(ÖÚ›ûÿÿÿÿ
+G
+java:S1612",Replace this lambda with a method reference.(…­€äüÿÿÿÿ
+G
+java:S1602",Remove useless curly braces around statement(…­€äüÿÿÿÿ
+B
+java:S1612",Replace this lambda with a method reference.(Ñ´èê
+G
+java:S1602",Remove useless curly braces around statement(„»¨ıÿÿÿÿ

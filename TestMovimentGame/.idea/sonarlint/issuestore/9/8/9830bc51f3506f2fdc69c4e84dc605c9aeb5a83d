@@ -1,23 +1,26 @@
 
-N
-java:S1612$",Replace this lambda with a method reference.(Ø²¿øÿÿÿÿ8ÿ«óÉî.
 I
-java:S1602",Remove useless curly braces around statement(ÎœæŠ8ÿ«óÉî.
-N
-java:S1602",Remove useless curly braces around statement(¿ÛÓğşÿÿÿÿ8ÿ«óÉî.
-N
-java:S1602$",Remove useless curly braces around statement(Ø²¿øÿÿÿÿ8ÿ«óÉî.
-`
-java:S1155E">Use isEmpty() to check whether the collection is empty or not.(ãçµÅÿÿÿÿÿ8Áì“Ïî.
-j
-java:S2095G"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(í‹Á­øÿÿÿÿ8‡¶¤Ïî.
+java:S1602#",Remove useless curly braces around statement(ê¢ÛÔ8ÿ«óÉî.
 I
-java:S1612",Replace this lambda with a method reference.(ÎœæŠ8ÿ«óÉî.
-I
-java:S1612 ",Replace this lambda with a method reference.(ê¢ÛÔ8ÿ«óÉî.
-I
-java:S1602 ",Remove useless curly braces around statement(ê¢ÛÔ8ÿ«óÉî.
-N
-java:S1612",Replace this lambda with a method reference.(¿ÛÓğşÿÿÿÿ8ÿ«óÉî.
+java:S1612#",Replace this lambda with a method reference.(ê¢ÛÔ8ÿ«óÉî.
 L
-java:S1611"/Remove the parentheses around the "i" parameter(¢ëÓÍ8ªÄöÍî.
+java:S1611"/Remove the parentheses around the "i" parameter(¢ëÓÍ8ªÄöÍî.
+N
+java:S1612'",Replace this lambda with a method reference.(Ø²¿øÿÿÿÿ8ÿ«óÉî.
+N
+java:S1602'",Remove useless curly braces around statement(Ø²¿øÿÿÿÿ8ÿ«óÉî.
+I
+java:S1612",Replace this lambda with a method reference.(ÎœæŠ8ÿ«óÉî.
+N
+java:S1602",Remove useless curly braces around statement(¿ÛÓğşÿÿÿÿ8ÿ«óÉî.
+N
+java:S1612",Replace this lambda with a method reference.(¿ÛÓğşÿÿÿÿ8ÿ«óÉî.
+I
+java:S1602",Remove useless curly braces around statement(ÎœæŠ8ÿ«óÉî.
+j
+java:S2095J"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(İÎ³øÿÿÿÿ8 û”óî.
+[
+java:S1155H">Use isEmpty() to check whether the collection is empty or not.(ıã½’8 û”óî.
+}	java:S116"aRename this field "WELL_TRAINED_MOV_COUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò£²8 û”óî.
+>
+java:S1170"!Make this final field static too.(Ò£²8 û”óî.
